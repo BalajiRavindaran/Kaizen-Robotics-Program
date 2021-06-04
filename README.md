@@ -11,7 +11,7 @@ Kaizen Robotics Program is a certificate training program aimed at providing stu
 - Pulse Width Modulation (Register Level Programming)
 - Table Top Robot (Register Level Programming)
 - Serical Communication (Register Level Programming)
-- Simple HandWriting Robot (Arduino) [Link](https://github.com/NithishSundarraj/Handwriting-Machine/)
+- Simple HandWriting Robot (Arduino) 
 
 ### Kaizen Robotics Program: Level - 2 
 
@@ -22,4 +22,4 @@ Kaizen Robotics Program is a certificate training program aimed at providing stu
 - Computer Controlled Robot (Arduino)
 - Serial Communication (Arduino)
 - Maze Solving Robot (Arduino)
-- Maze Solver With Shortest Path Algorithm (Arduino) [Link](https://github.com/NithishSundarraj/Maze-Solving-Robot-with-Shortest-Path-Algorithm)
+- Maze Solver With Shortest Path Algorithm (Arduino) 
